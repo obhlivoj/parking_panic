@@ -12,10 +12,10 @@ The project follows a modular structure with the main components including:
   - `intro_screen.py`: A custom module containing functions related to the game intro screen and level selection.
 
 ## Challenges and Solutions
-Implementing a game like Parking Panic comes with several challenges, including designing the game logic, managing the parking lot grid, handling user input for car movements, implementing graphics and user interface elements, and thorough testing to ensure a polished and bug-free experience. It's noted that the individual vehicle layouts were supplied for this task, eliminating the need to design and test them for solvability.
+Implementing a game like Parking Panic comes with several challenges, including designing the game logic, managing the parking lot grid, handling user input for car movements, implementing graphics and user interface elements, and thorough testing to ensure a polished and bug-free experience. It is noted that the individual vehicle layouts were supplied for this task, eliminating the need to design and test them for solvability.
 
 ## GUI
-The GUI of the game includes a parking lot grid where the goal is to free a specific car (e.g., a police car) to allow it to leave the parking lot. The top of the screen displays a step counter and the best record so far for the level.
+The GUI of the game includes a parking lot grid where the goal is to free the police car to allow it to leave the parking lot. The top of the screen displays a step counter and the best record so far for the level.
 
 <img src="screenshots/parking_panic.png" alt="Parking Panic GUI">
 
