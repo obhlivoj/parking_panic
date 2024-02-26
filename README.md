@@ -17,7 +17,7 @@ Implementing a game like Parking Panic comes with several challenges, including 
 ## GUI
 The GUI of the game includes a parking lot grid where the goal is to free a specific car (e.g., a police car) to allow it to leave the parking lot. The top of the screen displays a step counter and the best record so far for the level.
 
-![Parking Panic GUI](screenshots/parking_panic.png)
+<img src="screenshots/parking_panic.png" alt="Parking Panic GUI">
 
 ## How to Run
 1. Clone this repository to your local machine.
